@@ -1,0 +1,12 @@
+D:\repos\RazorPageDemo\RazorPageDemo.Services\bin\Debug\netstandard2.0\RazorPageDemo.Services.deps.json
+D:\repos\RazorPageDemo\RazorPageDemo.Services\bin\Debug\netstandard2.0\RazorPageDemo.Services.dll
+D:\repos\RazorPageDemo\RazorPageDemo.Services\bin\Debug\netstandard2.0\RazorPageDemo.Services.pdb
+D:\repos\RazorPageDemo\RazorPageDemo.Services\bin\Debug\netstandard2.0\RazorPageDemo.Models.dll
+D:\repos\RazorPageDemo\RazorPageDemo.Services\bin\Debug\netstandard2.0\RazorPageDemo.Models.pdb
+D:\repos\RazorPageDemo\RazorPageDemo.Services\obj\Debug\netstandard2.0\RazorPageDemo.Services.csprojAssemblyReference.cache
+D:\repos\RazorPageDemo\RazorPageDemo.Services\obj\Debug\netstandard2.0\RazorPageDemo.Services.csproj.CoreCompileInputs.cache
+D:\repos\RazorPageDemo\RazorPageDemo.Services\obj\Debug\netstandard2.0\RazorPageDemo.Services.AssemblyInfoInputs.cache
+D:\repos\RazorPageDemo\RazorPageDemo.Services\obj\Debug\netstandard2.0\RazorPageDemo.Services.AssemblyInfo.cs
+D:\repos\RazorPageDemo\RazorPageDemo.Services\obj\Debug\netstandard2.0\RazorPageDemo.Services.csproj.CopyComplete
+D:\repos\RazorPageDemo\RazorPageDemo.Services\obj\Debug\netstandard2.0\RazorPageDemo.Services.dll
+D:\repos\RazorPageDemo\RazorPageDemo.Services\obj\Debug\netstandard2.0\RazorPageDemo.Services.pdb

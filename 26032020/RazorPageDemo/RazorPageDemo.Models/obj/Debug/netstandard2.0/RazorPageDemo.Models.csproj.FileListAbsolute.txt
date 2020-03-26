@@ -1,0 +1,9 @@
+D:\repos\RazorPageDemo\RazorPageDemo.Models\bin\Debug\netstandard2.0\RazorPageDemo.Models.deps.json
+D:\repos\RazorPageDemo\RazorPageDemo.Models\bin\Debug\netstandard2.0\RazorPageDemo.Models.dll
+D:\repos\RazorPageDemo\RazorPageDemo.Models\bin\Debug\netstandard2.0\RazorPageDemo.Models.pdb
+D:\repos\RazorPageDemo\RazorPageDemo.Models\obj\Debug\netstandard2.0\RazorPageDemo.Models.csprojAssemblyReference.cache
+D:\repos\RazorPageDemo\RazorPageDemo.Models\obj\Debug\netstandard2.0\RazorPageDemo.Models.csproj.CoreCompileInputs.cache
+D:\repos\RazorPageDemo\RazorPageDemo.Models\obj\Debug\netstandard2.0\RazorPageDemo.Models.AssemblyInfoInputs.cache
+D:\repos\RazorPageDemo\RazorPageDemo.Models\obj\Debug\netstandard2.0\RazorPageDemo.Models.AssemblyInfo.cs
+D:\repos\RazorPageDemo\RazorPageDemo.Models\obj\Debug\netstandard2.0\RazorPageDemo.Models.dll
+D:\repos\RazorPageDemo\RazorPageDemo.Models\obj\Debug\netstandard2.0\RazorPageDemo.Models.pdb
