@@ -1,0 +1,9 @@
+D:\Madhur\Demo.Model\Demo.Model\bin\Debug\netstandard2.0\Demo.Model.deps.json
+D:\Madhur\Demo.Model\Demo.Model\bin\Debug\netstandard2.0\Demo.Model.dll
+D:\Madhur\Demo.Model\Demo.Model\bin\Debug\netstandard2.0\Demo.Model.pdb
+D:\Madhur\Demo.Model\Demo.Model\obj\Debug\netstandard2.0\Demo.Model.csprojAssemblyReference.cache
+D:\Madhur\Demo.Model\Demo.Model\obj\Debug\netstandard2.0\Demo.Model.csproj.CoreCompileInputs.cache
+D:\Madhur\Demo.Model\Demo.Model\obj\Debug\netstandard2.0\Demo.Model.AssemblyInfoInputs.cache
+D:\Madhur\Demo.Model\Demo.Model\obj\Debug\netstandard2.0\Demo.Model.AssemblyInfo.cs
+D:\Madhur\Demo.Model\Demo.Model\obj\Debug\netstandard2.0\Demo.Model.dll
+D:\Madhur\Demo.Model\Demo.Model\obj\Debug\netstandard2.0\Demo.Model.pdb
